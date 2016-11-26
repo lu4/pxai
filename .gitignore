@@ -1,0 +1,5 @@
+*.userprefs
+.DS_Store
+Packages
+Pxai/bin
+Pxai/obj
